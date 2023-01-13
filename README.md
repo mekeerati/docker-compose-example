@@ -1,2 +1,4 @@
-# postgresql-replica-docker-compose-example
-The docker compose for setup postgresql in read replica mode.
+# docker-compose-example
+
+The docker compose example for setup...
+- postgresql-read-replica mode
